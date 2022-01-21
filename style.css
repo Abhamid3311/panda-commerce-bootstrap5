@@ -9,3 +9,8 @@ h2{
     line-height: 54px;
 
 }
+.btn-danger:hover{
+    background-color: aliceblue;
+    border: 1px solid red;
+    color: red;
+}
